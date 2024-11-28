@@ -69,4 +69,3 @@ The response will contain the shortened URL:
 To access the original URL, navigate to `http://localhost:8080/api/url/abc123`.
 
 # Thanks for reading!
-```
